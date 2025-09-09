@@ -1,1 +1,1 @@
-Como escritor, eu quero criar a introdução da história e as diferentes opções de caminhos (A, B e C), para que os outros membros possam dar continuidade à narrativa.
+"Como leitor, eu quero navegar por uma história de 'Escolha sua Aventura' onde minhas decisões alteram o rumo da narrativa, para que eu possa ter uma experiência de leitura interativa e personalizada."
