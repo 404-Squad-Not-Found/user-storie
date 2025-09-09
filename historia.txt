@@ -6,3 +6,5 @@ caminho sejam muito assustadores e dificeis, para que o Sergião tenha muito org
 "Como escritor, eu quero continuar a história a partir da escolha A e adicionar uma nova bifurcação de caminhos, na onde o Kha é um rei. (A1 e A2)"
 
 "Como escritor, eu quero continuar a história a partir da escolha B e adicionar uma nova bifurcação de caminhos (B1 - Caminho do Mal e B2 - Caminho do Bem)."
+
+"Como escritor, eu quero desenvolver o caminho A1 e escrever uma conclusão para este final da narrativa, a qual deve conter um final feliz."
