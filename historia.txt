@@ -3,4 +3,6 @@
 "Como escritor, eu quero criar a introdução da história e as duas primeiras opções de caminhos (A e B), para que os outros membros possam dar continuidade à narrativa, e espero que esses 
 caminho sejam muito assustadores e dificeis, para que o Sergião tenha muito orgulho de mim."
 
-˜Como escritor, eu quero continuar a história a partir da escolha A e adicionar uma nova bifurcação de caminhos, na onde o Kha é um rei. (A1 e A2)˜
+"Como escritor, eu quero continuar a história a partir da escolha A e adicionar uma nova bifurcação de caminhos, na onde o Kha é um rei. (A1 e A2)"
+
+"Como escritor, eu quero continuar a história a partir da escolha B e adicionar uma nova bifurcação de caminhos (B1 - Caminho do Mal e B2 - Caminho do Bem)."
