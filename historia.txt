@@ -1,2 +1,3 @@
-Era uma vez um gato xadrez
-Como escritor, eu quero continuar a história a partir da escolha A e adicionar uma nova bifurcação de caminhos (A1 e A2) e o Kha.
+"Como leitor, eu quero navegar por uma história de 'Escolha sua Aventura' onde minhas decisões alteram o rumo da narrativa, para que eu possa ter uma experiência de leitura interativa e personalizada."
+
+Como escritor, eu quero continuar a história a partir da escolha A e adicionar uma nova bifurcação de caminhos, na onde o Kha é um rei. (A1 e A2)
