@@ -1,1 +1,2 @@
 Era uma vez um gato xadrez
+Como escritor, eu quero continuar a história a partir da escolha A e adicionar uma nova bifurcação de caminhos (A1 e A2) e o Kha.
