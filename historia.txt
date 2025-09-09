@@ -1,1 +1,1 @@
-Era uma vez um gato xadrez
+Como escritor, eu quero criar a introdução da história e as diferentes opções de caminhos (A, B e C), para que os outros membros possam dar continuidade à narrativa.
